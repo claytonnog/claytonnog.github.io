@@ -4,21 +4,57 @@
   
   <url>
     <loc>https://claytonnog.github.io/</loc>
-    <lastmod>2020-05-26T13:36:59-03:00</lastmod>
+    <lastmod>2020-05-26T14:26:32-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://claytonnog.github.io/page/</loc>
+    <lastmod>2020-05-26T14:26:32-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://claytonnog.github.io/page/project/</loc>
+    <lastmod>2020-05-26T14:26:32-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://claytonnog.github.io/page/about/</loc>
+    <lastmod>2020-05-26T14:24:52-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://claytonnog.github.io/post/</loc>
+    <lastmod>2020-05-26T13:56:33-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://claytonnog.github.io/2020/05/26/teste/</loc>
+    <lastmod>2020-05-26T13:56:33-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://claytonnog.github.io/tags/content/</loc>
+    <lastmod>2020-05-26T13:36:59-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://claytonnog.github.io/tags/hugo/</loc>
+    <lastmod>2020-05-26T13:36:59-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://claytonnog.github.io/tags/static-site-generator/</loc>
+    <lastmod>2020-05-26T13:36:59-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://claytonnog.github.io/tags/</loc>
     <lastmod>2020-05-26T13:36:59-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://claytonnog.github.io/2020/05/26/welcome/</loc>
     <lastmod>2020-05-26T13:36:59-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://claytonnog.github.io/tags/</loc>
   </url>
   
 </urlset>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Clayton Neves</title>
+    <link>https://claytonnog.github.io/page/</link>
+    <description>Recent content in Pages on Clayton Neves</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Clayton Neves</copyright>
+    <lastBuildDate>Tue, 26 May 2020 14:26:32 -0300</lastBuildDate>
+    
+	<atom:link href="https://claytonnog.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Projetos</title>
+      <link>https://claytonnog.github.io/page/project/</link>
+      <pubDate>Tue, 26 May 2020 14:26:32 -0300</pubDate>
+      
+      <guid>https://claytonnog.github.io/page/project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sobre</title>
+      <link>https://claytonnog.github.io/page/about/</link>
+      <pubDate>Tue, 26 May 2020 14:24:52 -0300</pubDate>
+      
+      <guid>https://claytonnog.github.io/page/about/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

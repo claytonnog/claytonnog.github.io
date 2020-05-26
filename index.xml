@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Clayton Neves</copyright>
-    <lastBuildDate>Tue, 26 May 2020 13:36:59 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2020 14:26:32 -0300</lastBuildDate>
     
 	<atom:link href="https://claytonnog.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Projetos</title>
+      <link>https://claytonnog.github.io/page/project/</link>
+      <pubDate>Tue, 26 May 2020 14:26:32 -0300</pubDate>
+      
+      <guid>https://claytonnog.github.io/page/project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sobre</title>
+      <link>https://claytonnog.github.io/page/about/</link>
+      <pubDate>Tue, 26 May 2020 14:24:52 -0300</pubDate>
+      
+      <guid>https://claytonnog.github.io/page/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teste</title>
+      <link>https://claytonnog.github.io/2020/05/26/teste/</link>
+      <pubDate>Tue, 26 May 2020 13:56:33 -0300</pubDate>
+      
+      <guid>https://claytonnog.github.io/2020/05/26/teste/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Welcome</title>

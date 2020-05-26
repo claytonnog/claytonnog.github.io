@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mytitle</title>
+    <link>https://example.com/</link>
+    <description>Recent content on mytitle</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>My Name</copyright>
+    <lastBuildDate>Tue, 26 May 2020 13:36:59 -0300</lastBuildDate>
+    
+	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome</title>
+      <link>https://example.com/2020/05/26/welcome/</link>
+      <pubDate>Tue, 26 May 2020 13:36:59 -0300</pubDate>
+      
+      <guid>https://example.com/2020/05/26/welcome/</guid>
+      <description>Welcome Mussum Ipsum, cacilds vidis litro abertis. Si num tem leite então bota uma pinga aí cumpadi! Mais vale um bebadis conhecidiss, que um alcoolatra anonimis. Praesent malesuada urna nisi, quis volutpat erat hendrerit non. Nam vulputate dapibus. Suco de cevadiss deixa as pessoas mais interessantis.
+Atirei o pau no gatis, per gatis num morreus. Diuretics paradis num copo é motivis de denguis. Quem num gosta di mim que vai caçá sua turmis!</description>
+    </item>
+    
+  </channel>
+</rss>
